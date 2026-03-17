@@ -29,8 +29,8 @@ Load test
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
-4.   The DPST switch must be kept open.Procedure for open circuit test
-## Procedure
+4.   The DPST switch must be kept open.
+## Procedure for Open Circuit Test
 1.   Connections are given as per the circuit diagram.
 2.   The motor is started with the help of THREE POINT starter.
 3.   Adjust the motor speed to rated speed by adjusting motor field rheostat when the generator is disconnected from the load by DPST switch 2.
